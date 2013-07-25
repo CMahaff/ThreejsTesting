@@ -1,0 +1,18 @@
+html, body
+{
+    background-color: white;
+    min-width: 800;
+    min-height: 600;
+}
+
+canvas
+{
+   border-style: solid;
+   border-color: black;
+   border-width: 5px; 
+}
+
+#webGLContainer 
+{
+    text-align: center;
+}
